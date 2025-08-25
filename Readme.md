@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 <h3 align="center">Passionate to be great at what I do</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-kartikspace" alt="dev-kartikspace" /></a> </p>
 
 - 🔭 I’m currently working on **TaskTribe**
 
