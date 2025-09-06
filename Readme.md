@@ -28,8 +28,8 @@ Hi there! 👋 I'm **Kartik**, and I like to code 💡
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: **your-email@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kartiksharma244/)  
+- 📧 Email: **kartik200327@gmail.com**  
 
 ---
 ⭐️ *“Consistency beats talent when talent doesn’t stay consistent.”*  
